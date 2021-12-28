@@ -1,7 +1,7 @@
 const mysql = require('mysql');
 
 const db = mysql.createConnection({
-    host    : 'db4free.net',
+    host    : 'ec2-3-83-103-17.compute-1.amazonaws.com',
     user    : 'karthi_2002',
     password: 'mano@2002',
     database: 'ziva_2022',
