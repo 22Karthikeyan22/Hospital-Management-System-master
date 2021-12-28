@@ -3,7 +3,7 @@ const mysql = require('mysql');
 const db = mysql.createConnection({
     host    : '10.1.23.221',
     user    : 'karthi_2002',
-    password: 'mano@2002',
+    password: 'saimagesh',
     database: 'ziva_2022',
     port: 3306
 });
